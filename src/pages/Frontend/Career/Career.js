@@ -58,7 +58,6 @@ export default function Career() {
             // Clear the form fields
             setName('');
             setEmail('');
-            setPhone('');
             setJobTitle('');
             setFile(null);
         } catch (error) {
